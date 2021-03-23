@@ -9,3 +9,6 @@ img{
     padding: 60px;
 
 }
+.col-md-3:hover{
+    transform: scale(1.1);
+}
