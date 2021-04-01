@@ -12,3 +12,27 @@ img{
 .col-md-3:hover{
     transform: scale(1.1);
 }
+.fullpage{
+    background-color:#28a745;    
+}
+.alltexts{
+     color: white;
+}
+
+.btn {
+    background-color:  #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 10px;
+    
+    
+    position: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    
+  }
+  .btn:hover {
+    background-color: #000000;
+    color: #28a745;
+  }
